@@ -14,7 +14,7 @@ import java.util.concurrent.RecursiveTask;
  *
  * @author yinwenjie
  */
-public class Merge2 {
+public class TestMergeByForkJoin {
 
     private static int MAX = 100000000;
 

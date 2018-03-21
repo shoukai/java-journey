@@ -5,12 +5,12 @@ import java.util.Random;
 
 /**
  * 归并排序
- *
+ * <p>
  * 来源：http://blog.csdn.net/yinwenjie/article/details/71915811
  *
  * @author yinwenjie
  */
-public class Merge1 {
+public class TestMergeByOrigin {
 
     private static int MAX = 10000;
 
@@ -86,7 +86,6 @@ public class Merge1 {
                 destInts[index] = value2;
             }
         }
-
         return destInts;
     }
 }
