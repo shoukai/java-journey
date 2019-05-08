@@ -11,6 +11,8 @@
     <modules>
         <module>thread</module>
         <module>unsafe</module>
+        <module>collection</module>
+        <module>lang</module>
     </modules>
 
     <dependencies>
