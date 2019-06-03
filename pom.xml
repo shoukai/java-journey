@@ -13,6 +13,7 @@
         <module>unsafe</module>
         <module>collection</module>
         <module>lang</module>
+        <module>spi</module>
     </modules>
 
     <dependencies>

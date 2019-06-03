@@ -1,0 +1,2 @@
+org.apframework.spi.serializer.KryoSerializer
+org.apframework.spi.serializer.JavaSerializer
