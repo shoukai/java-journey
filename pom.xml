@@ -14,6 +14,8 @@
         <module>collection</module>
         <module>lang</module>
         <module>spi</module>
+        <module>jsr-269-timer</module>
+        <module>jsr-269-sample</module>
     </modules>
 
     <dependencies>
