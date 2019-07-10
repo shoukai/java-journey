@@ -16,6 +16,7 @@
         <module>spi</module>
         <module>jsr-269-timer</module>
         <module>jsr-269-sample</module>
+        <module>jsr-269</module>
     </modules>
 
     <dependencies>
