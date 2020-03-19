@@ -17,4 +17,14 @@
         <module>jsr-269-timer</module>
         <module>jsr-269-sample</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.7</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
 </project>
