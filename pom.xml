@@ -15,6 +15,7 @@
         <module>lang</module>
         <module>spi</module>
         <module>jsr-269</module>
+        <module>io</module>
     </modules>
 
     <dependencies>
